@@ -2,6 +2,8 @@ dataset
 dataset - base backup
 dataset - Copy
 
+model
+
 .vscode
 
 tensorflow_tutorial.ipynb
