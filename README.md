@@ -18,6 +18,7 @@ A python script that will compare images using MD5 hashing algorithm based on th
 | model_3_(512x512).h5 | TBC | TBC |
 | model_4_16batch_50epochs.h5 | TBC | TBC |
 | model_5_64batch_5epochs.h5 | TBC | TBC |
+| model_6_64batch_15epochs.h5 | 0.12477310001850128 | 0.9331003427505493 |
 
 
 ### Contributor
