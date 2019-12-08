@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train_set</folder>
+	<filename>0030.jpg</filename>
+	<path>C:\Users\andre\Documents\cds_nude_censoring\images\train_set\0030.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>penis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>230</ymin>
+			<xmax>107</xmax>
+			<ymax>443</ymax>
+		</bndbox>
+	</object>
+</annotation>

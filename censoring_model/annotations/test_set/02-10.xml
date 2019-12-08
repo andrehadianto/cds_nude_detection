@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_set</folder>
+	<filename>02-10.jpg</filename>
+	<path>/Users/anthonymunoz/Downloads/images/images/test_set/02-10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>penis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>404</xmin>
+			<ymin>311</ymin>
+			<xmax>483</xmax>
+			<ymax>568</ymax>
+		</bndbox>
+	</object>
+</annotation>

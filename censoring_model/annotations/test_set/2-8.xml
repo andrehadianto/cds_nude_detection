@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_set</folder>
+	<filename>2-8.jpg</filename>
+	<path>/Users/anthonymunoz/Downloads/images/images/test_set/2-8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>breast</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>454</xmin>
+			<ymin>251</ymin>
+			<xmax>583</xmax>
+			<ymax>343</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train_set</folder>
+	<filename>0062.jpg</filename>
+	<path>C:\Users\andre\Documents\cds_nude_censoring\images\train_set\0062.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vagina</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>394</xmin>
+			<ymin>380</ymin>
+			<xmax>418</xmax>
+			<ymax>424</ymax>
+		</bndbox>
+	</object>
+</annotation>
