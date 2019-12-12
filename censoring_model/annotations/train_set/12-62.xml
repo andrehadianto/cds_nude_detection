@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nsfw</folder>
+	<filename>12-62.jpg</filename>
+	<path>/Users/noobkenneth/Downloads/nsfw/12-62.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vagina</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>389</xmin>
+			<ymin>422</ymin>
+			<xmax>483</xmax>
+			<ymax>487</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nsfw</folder>
+	<filename>5_b_3460272.jpg</filename>
+	<path>/Users/noobkenneth/Downloads/nsfw/5_b_3460272.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>penis</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>417</xmin>
+			<ymin>119</ymin>
+			<xmax>800</xmax>
+			<ymax>379</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nsfw</folder>
+	<filename>9-8.jpg</filename>
+	<path>/Users/noobkenneth/Downloads/nsfw/9-8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vagina</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>378</xmin>
+			<ymin>452</ymin>
+			<xmax>433</xmax>
+			<ymax>520</ymax>
+		</bndbox>
+	</object>
+</annotation>

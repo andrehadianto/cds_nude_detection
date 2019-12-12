@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nsfw</folder>
+	<filename>13-49.jpg</filename>
+	<path>/Users/noobkenneth/Downloads/nsfw/13-49.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>breast</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>502</xmin>
+			<ymin>297</ymin>
+			<xmax>567</xmax>
+			<ymax>350</ymax>
+		</bndbox>
+	</object>
+</annotation>
