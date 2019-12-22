@@ -1,5 +1,5 @@
 # CDS Nude Detection Project
-The aim of the project is to create a model that is able to accurately classify images into nsfw and sfw images.
+The aim of the project is to create a model that is able to accurately classify images into nsfw and sfw images.  
 We have built a classication and detection model to classify NSFW/SFW images and provide coordinates for live censoring.
 
 ### Models
@@ -14,7 +14,9 @@ We have built a classication and detection model to classify NSFW/SFW images and
 | model_5_64batch_5epochs.h5 | TBC | TBC |
 | model_6_64batch_15epochs.h5 | 0.12477310001850128 | 0.9331003427505493 |
 
+We also managed to achieve an <strong> mAP of 0.69 </strong>  
+
 ### Contributor
-Andre Hadianto (hi Andre :D)
+Andre Hadianto (hi Andre :D)  
 Antonio Miguel Canlas Quizon  
 Kenneth Ng  
