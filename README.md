@@ -14,7 +14,7 @@ We have built a classication and detection model to classify NSFW/SFW images and
 | model_5_64batch_5epochs.h5 | TBC | TBC |
 | model_6_64batch_15epochs.h5 | 0.12477310001850128 | 0.9331003427505493 |
 
-We also managed to achieve an <strong> mAP of 0.69 </strong>  
+We also managed to achieve an <strong> mAP of 0.69 </strong> for our detection model.  
 
 ### Contributor
 Andre Hadianto (hi Andre :D)  
